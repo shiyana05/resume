@@ -1,0 +1,22 @@
+ #head{
+        color: crimson;
+    }
+    .title-section{
+        color: darkblue;
+    }
+    .title-section:hover{
+        color: forestgreen;
+    }
+    .education-container{
+        color: brown;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    h1{
+        border: 1px solid;
+        padding: 20px;
+        margin: 0;
+    }
